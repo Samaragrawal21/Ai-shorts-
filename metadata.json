@@ -1,0 +1,6 @@
+{
+  "name": "AI Shorts",
+  "description": "Crash-proof AI news digest in InShorts format with Gemini AI summaries and live RSS feeds",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
